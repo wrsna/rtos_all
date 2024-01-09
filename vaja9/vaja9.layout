@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="all" />
+	<File name="app/src/uart_handler.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2390" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="asf/thirdparty/CMSIS/include/core_cm3.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="95939" topLine="1127" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/source/templates/gcc/startup_sam3x.c" open="1" top="1" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6816" topLine="187" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/sam3xa.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="app/src/main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="389" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="app/include/rtos_task.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="190" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="app/src/bord.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4347" topLine="183" />
+		</Cursor>
+	</File>
+	<File name="app/include/asf.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1007" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="asf/thirdparty/CMSIS/include/core_cmInstr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="558" />
+		</Cursor>
+	</File>
+	<File name="app/src/rtos_task.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1455" topLine="330" />
+		</Cursor>
+	</File>
+	<File name="app/src/rtos.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="845" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="asf/common/services/delay/delay.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="app/include/fifo.h" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="131" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="app/src/dacc_lib.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="392" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/source/templates/exceptions.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2262" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/component/component_uart.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8770" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="app/include/rtos.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="409" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="app/include/uart_handler.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="204" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="asf/common/services/delay/sam/cycle_counter.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="app/include/lcd.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2504" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="app/include/bord.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="687" topLine="16" />
+		</Cursor>
+	</File>
+	<File name="config.mk" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3633" topLine="75" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/sam3x8e.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5536" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/drivers/uart/uart.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6915" topLine="250" />
+		</Cursor>
+	</File>
+	<File name="app/src/lcd.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3065" topLine="102" />
+		</Cursor>
+	</File>
+	<File name="app/include/dacc_lib.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/drivers/uart/uart.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2600" topLine="126" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/pio/pio_sam3x8e.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="506" />
+		</Cursor>
+	</File>
+	<File name="app/src/fifo.c" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1664" topLine="66" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
